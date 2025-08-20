@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas  
 
-<!--
-**lucasmattoso-dev/lucasmattoso-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Programação Full Stack**, com foco em **Javascript, HTML, CSS, Git/GitHub, React** e práticas de desenvolvimento modernas.  
+🎯 Objetivo: entrar no mercado de tecnologia e crescer como desenvolvedor.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim  
+- 📍 Brasileiro  
+- 🎓 Concluí a **Formação em Lógica de Programação** pela [DIO](https://www.dio.me)  
+- 📚 Atualmente estudando:  
+  - **Programação Full Stack**  
+  - **Lógica de Programação**  
+  - **Git e GitHub**  
+  - **HTML & CSS**  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+- **Linguagens:** JavaScript, HTML, CSS  
+- **Versionamento:** Git & GitHub  
+- **Outros:** Orientação a Objetos, Lógica de Programação  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmattoso-dev&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmattoso-dev&layout=compact&theme=radical)  
+
+---
+
+## 📈 Metas 2025  
+- 🚀 Ingressar na área de tecnologia  
+- 🏗️ Construir projetos práticos e portfólio no GitHub  
+- 📖 Aprofundar em desenvolvimento **Full Stack**  
+- 💡 Criar soluções que gerem impacto real  
+
+---
+
+## 🌐 Onde me encontrar  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-nascimento-dos-santos-mattoso-92ab92228/)
+- 📧 Email: _(lucasnmattoso@gmail.com)_  
+
+---
+
+⭐ Se gostou dos meus repositórios, não esqueça de deixar uma estrela!  
